@@ -8,6 +8,7 @@ Some of my interests are:
 Some repositories I work in:
 - Programming | Combination of random projects
 - Rustminus | Rust+ Discord Bot (heavily) based on rustplusplus repository
+- Rust-Raid-Cost-Calculator | Data Scraper that calculates raid cost for Rust
 
 You can contact me via my email: olivierbroek@gmail.com or olivier.broekman@ru.nl.
 
