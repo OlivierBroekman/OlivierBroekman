@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi 👋 My name is Olivier Broekman
 ========================================================================================================================================
-Student @ RU
+Student
 ------------
 Hi, I'm Olivier, I am a student of Artificial Intelligence @ Radboud University.
 * 🌍  I'm based in The Netherlands
