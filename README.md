@@ -11,6 +11,7 @@ Hi, I'm Olivier, I am a student of Artificial Intelligence @ Radboud University.
 * ✉️  You can contact me at [olivier.broekman@ru.nl](mailto:olivier.broekman@ru.nl)
 * 🚀  I'm currently working on [Rust Tools](http://www.rust-tools.eu/home)
 * 🧠  I'm learning Java, HTML5 & CSS3
+* 🖥️  I'm interested in video games and ML
 
 ### Skills
 ------------
