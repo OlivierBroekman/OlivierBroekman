@@ -9,9 +9,9 @@ Student
 Hi, I'm Olivier, I am a student of Artificial Intelligence @ Radboud University.
 * 🌍	I'm based in The Netherlands
 * ✉️	You can contact me at [olivier.broekman@ru.nl](mailto:olivier.broekman@ru.nl)
-* 🚀	I'm currently working on [Rust Tools](http://www.rust-tools.eu/home)
-* 🧠	I'm learning C# and Scala
-* 🖥️	I'm interested in video games and ML
+* 🚀	I'm currently working on university projects
+* 🧠	I'm learning neural networks & RL
+* 🖥️	I'm interested in (safe) RL, Monte-Carlo Markov Chain
 
 ### Skills
 ------------
