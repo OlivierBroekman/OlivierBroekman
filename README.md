@@ -9,9 +9,9 @@ Student
 Hi, I'm Olivier, I am a student of Artificial Intelligence @ Radboud University.
 * 🌍	I'm based in The Netherlands
 * ✉️	You can contact me at [olivier.broekman@ru.nl](mailto:olivier.broekman@ru.nl)
-* 🚀	I'm currently working on university projects
-* 🧠	I'm learning neural networks & RL
-* 🖥️	I'm interested in (safe) RL, Monte-Carlo Markov Chain
+* 🚀	I'm currently working on herringbone, an open-source highly customizable reinforcement learning environment, to be released soon!
+* 🧠	I'm learning neural networks & reinforcement learning
+* 🖥️	I'm interested in (safe) reinforcement learning and Monte-Carlo Markov Chain
 
 ### Skills
 ------------
